@@ -1,2 +1,3 @@
-# sabicas
-Data analysis linked to the SABICAS project
+# SABICAS
+
+Data analysis linked to the SABICAS project.
